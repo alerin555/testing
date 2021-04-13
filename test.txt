@@ -2,4 +2,4 @@ Witaj z pliku nr 1
 Witaj z pliku nr 1 po raz 2
 from other branch
 from master!
-
+tak
